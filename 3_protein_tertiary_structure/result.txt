@@ -1,0 +1,11 @@
+Match: read scoring matrix.
+ Match: assigning 774 x 141 pairwise scores.
+ MatchAlign: aligning residues (774 vs 141)...
+ MatchAlign: score 728.000
+ ExecutiveAlign: 1068 atoms aligned.
+ ExecutiveRMS: 38 atoms rejected during cycle 1 (RMSD=1.98).
+ ExecutiveRMS: 80 atoms rejected during cycle 2 (RMSD=0.91).
+ ExecutiveRMS: 59 atoms rejected during cycle 3 (RMSD=0.60).
+ ExecutiveRMS: 40 atoms rejected during cycle 4 (RMSD=0.49).
+ ExecutiveRMS: 17 atoms rejected during cycle 5 (RMSD=0.44).
+ Executive: RMSD =    0.422 (834 to 834 atoms)
